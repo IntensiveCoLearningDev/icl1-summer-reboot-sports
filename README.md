@@ -206,7 +206,9 @@ Proof：
 | [wodeche](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/wodeche.md) | | | | | | | | | | | | | | | | | | | | | |
 | [Yyfi](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/Yyfi.md) | | | | | | | | | | | | | | | | | | | | | |
 | [brucexu-eth](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/brucexu-eth.md) | | | | | | | | | | | | | | | | | | | | | |
+| [jingedawang](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/jingedawang.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
