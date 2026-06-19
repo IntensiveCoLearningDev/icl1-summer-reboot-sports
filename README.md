@@ -208,7 +208,9 @@ Proof：
 | [brucexu-eth](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/brucexu-eth.md) | | | | | | | | | | | | | | | | | | | | | |
 | [jingedawang](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/jingedawang.md) | | | | | | | | | | | | | | | | | | | | | |
 | [shaoyanjun-syj](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/shaoyanjun-syj.md) | | | | | | | | | | | | | | | | | | | | | |
+| [skelitalynn](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/skelitalynn.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
