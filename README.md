@@ -229,7 +229,9 @@ Proof：
 | [gitgdut](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/gitgdut.md) | | | | | | | | | | | | | | | | | | | | | |
 | [Iven666](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/Iven666.md) | | | | | | | | | | | | | | | | | | | | | |
 | [MatianMaoL](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/MatianMaoL.md) | | | | | | | | | | | | | | | | | | | | | |
+| [fridachen1127](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/fridachen1127.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
