@@ -232,7 +232,7 @@ Proof：
 | [fridachen1127](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/fridachen1127.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [LittleBellyGo](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/LittleBellyGo.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [boombb12138](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/boombb12138.md) |   | | | | | | | | | | | | | | | | | | | | |
-| [merlin-ecde](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/merlin-ecde.md) |   | | | | | | | | | | | | | | | | | | | | |
+| [merlin-ecde](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/merlin-ecde.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [tobaizhizhi](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/tobaizhizhi.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [dongshujun4994](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/dongshujun4994.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [yanwenzhe519-ctrl](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/yanwenzhe519-ctrl.md) |   | | | | | | | | | | | | | | | | | | | | |
@@ -244,6 +244,7 @@ Proof：
 | [eyw8](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/eyw8.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [luuzuofan-design](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/luuzuofan-design.md) |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
