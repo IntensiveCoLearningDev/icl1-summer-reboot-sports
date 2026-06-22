@@ -15,6 +15,8 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
-
-
+# 2026-06-22
+<!-- DAILY_CHECKIN_2026-06-22_START -->
+做了几十个胯下击掌，左右提膝，四十多五十个深蹲，还有两分钟的平板撑，最近几天准备先坚持这个
+<!-- DAILY_CHECKIN_2026-06-22_END -->
 <!-- Content_END -->
