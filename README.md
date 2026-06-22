@@ -212,7 +212,7 @@ Proof：
 | [iokk](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/iokk.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [Coooder-Crypto](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/Coooder-Crypto.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [Rebecca9715](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/Rebecca9715.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
-| [zyz060323](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/zyz060323.md) |   | | | | | | | | | | | | | | | | | | | | |
+| [zyz060323](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/zyz060323.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [Jasper-B-WLB](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/Jasper-B-WLB.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [Apricity0401](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/Apricity0401.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [Aafff623](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/Aafff623.md) |   | | | | | | | | | | | | | | | | | | | | |
@@ -244,6 +244,7 @@ Proof：
 | [eyw8](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/eyw8.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [luuzuofan-design](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/luuzuofan-design.md) |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
