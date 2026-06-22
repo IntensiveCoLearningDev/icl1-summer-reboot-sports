@@ -15,6 +15,12 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-06-22
+<!-- DAILY_CHECKIN_2026-06-22_START -->
+今天做了一些矫正体态的动作大概10min
 
+[MIZI 改善驼背和头前倾姿势｜10分钟每日颈肩体态训练\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1QMhJzqE6e/?spm_id_from=333.337.search-card.all.click&vd_source=7d8ded408b70aba5029782726fc72622)
 
+做了跟练
+<!-- DAILY_CHECKIN_2026-06-22_END -->
 <!-- Content_END -->
