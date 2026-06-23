@@ -15,8 +15,62 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-06-23
+<!-- DAILY_CHECKIN_2026-06-23_START -->
+W9D2｜26年6月23日周二14：27｜Easy 12 KM
+
+【环境】
+
+杭州萧山｜25°C｜湿度100%｜海拔5m｜风速15km/h｜公路｜大鲶小鲶
+
+【距离、配速】
+
+计划：Easy 12 KM @5'23''-5'35''
+
+实际：Easy 12 KM @5'26''
+
+【心率、步态】
+
+平均心率：164
+
+最大心率：183
+
+位于轻松跑心率区间（144-166）内
+
+平均步频：186
+
+【主观感受】
+
+心肺：压力不大，6成
+
+肌肉状态：肌肉疲劳较昨天有明显缓解，但依旧疲劳
+
+关节：无碍
+
+【恢复状态】
+
+睡眠得分、状况：56 分。3点入睡，睡了9个小时。
+
+HRV状况：120 ms（远高于近7天平均HRV水平）
+
+静息心率：55次（近7天平均静息心率 54 次）
+
+【训练关联】
+
+力量训练情况：脚部力量10分钟（勾脚、抓毛巾、提踵）
+
+伤病情况：无
+
+疲劳状况：疲劳
+
+【备注】
+
+![257cb67bcf32975f983d92b4d653acfb.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/Apricity0401/images/2026-06-23-1782219478139-257cb67bcf32975f983d92b4d653acfb.jpg)![c7c2380b5524980e4a7c9ad8ccf6cbcf.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/Apricity0401/images/2026-06-23-1782219551280-c7c2380b5524980e4a7c9ad8ccf6cbcf.jpg)
+<!-- DAILY_CHECKIN_2026-06-23_END -->
+
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 ![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/Apricity0401/images/2026-06-22-1782133482653-image.png)
 
 运动复盘  
