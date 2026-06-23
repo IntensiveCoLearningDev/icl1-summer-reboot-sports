@@ -15,8 +15,14 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-06-23
+<!-- DAILY_CHECKIN_2026-06-23_START -->
+今天跑了大概 40 分钟的慢跑，再过几天准备去游泳。
+<!-- DAILY_CHECKIN_2026-06-23_END -->
+
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 今天是在学校后湖散步，大概 40 分钟。
 
 ![1000009507.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/RicardoXu2/images/2026-06-22-1782138158539-1000009507.jpg)
