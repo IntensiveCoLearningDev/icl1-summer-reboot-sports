@@ -202,7 +202,7 @@ Proof：
 | [muxin-web3](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/muxin-web3.md) | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
 | [dylanlyu123](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/dylanlyu123.md) | ✅ |   | | | | | | | | | | | | | | | | | | | |
 | [LittleModesty](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/LittleModesty.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [web3yaso](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/web3yaso.md) |   | | | | | | | | | | | | | | | | | | | | |
+| [web3yaso](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/web3yaso.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [wodeche](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/wodeche.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | [Yyfi](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/Yyfi.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | [brucexu-eth](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/brucexu-eth.md) | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
@@ -244,6 +244,7 @@ Proof：
 | [eyw8](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/eyw8.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | [luuzuofan-design](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/luuzuofan-design.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
