@@ -17,8 +17,28 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-06-24
+<!-- DAILY_CHECKIN_2026-06-24_START -->
+今天是否完成：
+
+-   降级完成
+    
+
+运动类型：跑步
+
+运动时长：17:24 min
+
+Proof：
+
+![微信图片_20260624193314_14553_158.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/dylanlyu123/images/2026-06-24-1782302780055-_____20260624193314_14553_158.jpg)
+
+身体 / 睡眠 / 情绪感受：睡眠质量可以，睡眠时间太晚，情绪还可以，身体有点累  
+一句话记录：功不唐捐啊，断一次运动恢复起来就要很久的恢复期，运动的感觉还在，但是身体无法支撑跑到更远了
+<!-- DAILY_CHECKIN_2026-06-24_END -->
+
 # 2026-06-23
 <!-- DAILY_CHECKIN_2026-06-23_START -->
+
 今天是否完成：
 
 -   完成
@@ -39,6 +59,7 @@ Proof：
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 今天是否完成：
 
