@@ -15,8 +15,46 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-06-24
+<!-- DAILY_CHECKIN_2026-06-24_START -->
+W9D3｜26年6月24日周三17：00｜Rest
+
+【环境】
+
+杭州萧山｜25°C｜湿度70%｜海拔5m｜风速15km/h
+
+【恢复状态】
+
+睡眠得分、状况：56 分。2点入睡，睡了6个小时。
+
+HRV状况：82 ms（略低于近7天平均HRV水平）
+
+静息心率：54次（近7天平均静息心率 55 次）
+
+【训练关联】
+
+力量训练情况：臀腿力量×2组×25个（保加利亚深蹲、深蹲、臀桥、单腿臀桥、提踵、单腿提踵、抬髋、蚌式开合）
+
+交叉训练：共享单车10km、徒步20分钟。
+
+伤病情况：无
+
+疲劳状况：疲劳
+
+【备注】  
+饮食：  
+早饭3个青菜包1杯豆浆；午饭鸡块、翅根、鸡腿堡、薯条；晚饭凉面。喝了500ml奶，再补30g蛋白粉。  
+明天一定要炒个绿叶菜，中午吃个意面补充下碳水和蛋白。
+
+睡眠：  
+1点多躺床上了，听个节目半小时睡着。7点多醒了没接着睡直接起了，白天状态不是很好但也不至于长时间熬夜那种难受，还是睡少了，作息要一点点调，规律些调。
+
+![2b63dd610686d03e66105beae5fc7068.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/Apricity0401/images/2026-06-24-1782310330846-2b63dd610686d03e66105beae5fc7068.jpg)![c75a76d72ebf5380c25bb49657b7277c.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/Apricity0401/images/2026-06-24-1782310358571-c75a76d72ebf5380c25bb49657b7277c.jpg)![71c8ce16d2a27bb37c528821381a503c.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/Apricity0401/images/2026-06-24-1782310345742-71c8ce16d2a27bb37c528821381a503c.jpg)
+<!-- DAILY_CHECKIN_2026-06-24_END -->
+
 # 2026-06-23
 <!-- DAILY_CHECKIN_2026-06-23_START -->
+
 W9D2｜26年6月23日周二14：27｜Easy 12 KM
 
 【环境】
@@ -70,6 +108,7 @@ HRV状况：120 ms（远高于近7天平均HRV水平）
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 ![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/Apricity0401/images/2026-06-22-1782133482653-image.png)
 
