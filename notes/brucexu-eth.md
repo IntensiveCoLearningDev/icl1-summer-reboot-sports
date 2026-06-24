@@ -15,13 +15,20 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-06-25
+<!-- DAILY_CHECKIN_2026-06-25_START -->
+昨天是休息日，今天要走很多路。
+<!-- DAILY_CHECKIN_2026-06-25_END -->
+
 # 2026-06-23
 <!-- DAILY_CHECKIN_2026-06-23_START -->
+
 今天练腿臀，一小时
 <!-- DAILY_CHECKIN_2026-06-23_END -->
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 今天第一天，完成了 50 分钟的上肢综合力量训练。开始严控饮食等。
 <!-- DAILY_CHECKIN_2026-06-22_END -->
