@@ -15,8 +15,14 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-06-25
+<!-- DAILY_CHECKIN_2026-06-25_START -->
+今天去散步
+<!-- DAILY_CHECKIN_2026-06-25_END -->
+
 # 2026-06-23
 <!-- DAILY_CHECKIN_2026-06-23_START -->
+
 今天健身，但是忘记拍照
 <!-- DAILY_CHECKIN_2026-06-23_END -->
 <!-- Content_END -->
