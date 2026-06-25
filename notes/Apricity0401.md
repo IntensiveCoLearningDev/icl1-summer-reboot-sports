@@ -15,8 +15,70 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-06-25
+<!-- DAILY_CHECKIN_2026-06-25_START -->
+W9D4｜26年6月25日周四16：13｜2KM+3x3.2 KM @4'40''（MP-6s）, w. 800m rest
+
+【环境】
+
+杭州萧山｜25°C｜湿度60%｜海拔5m｜风速15km/h｜公路｜大鲶小鲶
+
+【距离、配速】
+
+计划：2KM+3x3.2 KM @4'40''（MP-6s）, w. 800m rest
+
+实际：2KM+3x3.2 KM @4'39''（MP-6s）, w. 800m rest
+
+【心率、步态】
+
+平均心率：176
+
+最大心率：202
+
+主训练位于阈值心率区间（179-185）内
+
+平均步频：181
+
+【主观感受】
+
+心肺：RPE8-9，每次训练前1km内压力比较大，但中间跑开压力降低很多。
+
+肌肉状态：昨天力量训练，今天肌肉稍微疲劳，没有恢复，对状态有影响
+
+关节：无碍，第二组起跑1km右脚有点震和麻，后来发现是右边脚踝处太紧了，停下调整后感觉血液逐渐流通，然后恢复，第3组完全正常。
+
+【恢复状态】
+
+睡眠得分、状况：81 分。1点半入睡，睡了10个小时。
+
+HRV状况：95 ms（高于近7天平均HRV水平）
+
+静息心率：56次（近7天平均静息心率 55 次）
+
+【训练关联】
+
+力量训练情况：脚部力量（勾脚、抓毛巾、提踵，每组1分钟，各2组）
+
+伤病情况：无
+
+疲劳状况：胫骨后肌、股四头肌、臀大肌明显疲劳，按摩拉伸
+
+【备注】
+
+睡眠：
+
+昨天可以提早了上床时间，躺床上放下手机没多久就睡了，不过还是听东西睡的。早上没醒，直接睡到了11点多。
+
+饮食：
+
+由于起床时间12点，直接点了个三杯鸡；晚饭一起拼饭；喝了30g蛋白粉。
+
+![f101d12d985c8b1aa633f568efd11e55.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/Apricity0401/images/2026-06-25-1782395733531-f101d12d985c8b1aa633f568efd11e55.jpg)![c824b7b2b867943ed50128419ee6fa36.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/Apricity0401/images/2026-06-25-1782395742700-c824b7b2b867943ed50128419ee6fa36.jpg)
+<!-- DAILY_CHECKIN_2026-06-25_END -->
+
 # 2026-06-24
 <!-- DAILY_CHECKIN_2026-06-24_START -->
+
 W9D3｜26年6月24日周三17：00｜Rest
 
 【环境】
@@ -54,6 +116,7 @@ HRV状况：82 ms（略低于近7天平均HRV水平）
 
 # 2026-06-23
 <!-- DAILY_CHECKIN_2026-06-23_START -->
+
 
 W9D2｜26年6月23日周二14：27｜Easy 12 KM
 
@@ -108,6 +171,7 @@ HRV状况：120 ms（远高于近7天平均HRV水平）
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 
 ![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/Apricity0401/images/2026-06-22-1782133482653-image.png)
