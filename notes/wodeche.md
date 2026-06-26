@@ -15,13 +15,20 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-06-26
+<!-- DAILY_CHECKIN_2026-06-26_START -->
+今日一份化训练45min + 跑步 3km
+<!-- DAILY_CHECKIN_2026-06-26_END -->
+
 # 2026-06-24
 <!-- DAILY_CHECKIN_2026-06-24_START -->
+
 今日慢跑3km，一分化力量训练一组
 <!-- DAILY_CHECKIN_2026-06-24_END -->
 
 # 2026-06-23
 <!-- DAILY_CHECKIN_2026-06-23_START -->
+
 
 今日打卡，跑步3km，自由力量训练4组
 <!-- DAILY_CHECKIN_2026-06-23_END -->
