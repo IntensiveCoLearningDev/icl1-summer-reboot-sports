@@ -15,8 +15,70 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-06-26
+<!-- DAILY_CHECKIN_2026-06-26_START -->
+W9D5｜26年6月26日周五18：13｜Easy 10KM
+
+【环境】
+
+杭州萧山｜29°C｜湿度63%｜海拔5m｜风速6km/h｜公路｜大鲶小鲶
+
+【距离、配速】
+
+计划：Easy 10KM @5'35''-5'47''
+
+实际：Easy 10KM @5'41''
+
+【心率、步态】
+
+平均心率：159
+
+最大心率：174
+
+位于轻松跑心率区间（144-166）内
+
+平均步频：183
+
+【主观感受】
+
+心肺：无感，6成
+
+肌肉状态：今天肌肉疲劳加重
+
+关节：无碍
+
+【恢复状态】
+
+睡眠得分、状况：61 分。2点半入睡，睡了8个小时。
+
+HRV状况：86 ms（持平于近7天平均HRV水平）
+
+静息心率：59次（近7天平均静息心率 56 次）
+
+【训练关联】
+
+力量训练情况：无
+
+伤病情况：无
+
+疲劳状况：肌肉疲劳
+
+【备注】
+
+睡眠：
+
+放下手机是可以比较快入睡的，这并不是阻碍。需要解决的问题是提早上床时间
+
+饮食：
+
+中午意面；晚上三杯鸡+炒菜；1L豆浆，30g蛋白粉。
+
+![92bca15ae3acf196bd9d8ab4e5218a23.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/Apricity0401/images/2026-06-26-1782475860669-92bca15ae3acf196bd9d8ab4e5218a23.jpg)![8fcd9a2a8dd79a1f0564f11029cd7b5f.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/Apricity0401/images/2026-06-26-1782475872929-8fcd9a2a8dd79a1f0564f11029cd7b5f.jpg)
+<!-- DAILY_CHECKIN_2026-06-26_END -->
+
 # 2026-06-25
 <!-- DAILY_CHECKIN_2026-06-25_START -->
+
 W9D4｜26年6月25日周四16：13｜2KM+3x3.2 KM @4'40''（MP-6s）, w. 800m rest
 
 【环境】
@@ -79,6 +141,7 @@ HRV状况：95 ms（高于近7天平均HRV水平）
 # 2026-06-24
 <!-- DAILY_CHECKIN_2026-06-24_START -->
 
+
 W9D3｜26年6月24日周三17：00｜Rest
 
 【环境】
@@ -116,6 +179,7 @@ HRV状况：82 ms（略低于近7天平均HRV水平）
 
 # 2026-06-23
 <!-- DAILY_CHECKIN_2026-06-23_START -->
+
 
 
 W9D2｜26年6月23日周二14：27｜Easy 12 KM
@@ -171,6 +235,7 @@ HRV状况：120 ms（远高于近7天平均HRV水平）
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 
 
