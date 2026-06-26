@@ -17,8 +17,29 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-06-26
+<!-- DAILY_CHECKIN_2026-06-26_START -->
+今天是否完成：
+
+-   完成
+    
+
+运动类型：爬楼梯
+
+运动时长：7 min
+
+Proof：
+
+![微信图片_20260626230040_14728_158.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/dylanlyu123/images/2026-06-26-1782486228602-_____20260626230040_14728_158.jpg)
+
+身体 / 睡眠 / 情绪感受：超出预期的轻松，本来乳酸弄得全身痛，出去一天状态也没有很好，没想到超预期完成，挺受鼓舞的一下子
+
+一句话记录：功不唐捐
+<!-- DAILY_CHECKIN_2026-06-26_END -->
+
 # 2026-06-25
 <!-- DAILY_CHECKIN_2026-06-25_START -->
+
 今天是否完成：
 
 -   完成
@@ -39,6 +60,7 @@ Proof：
 
 # 2026-06-24
 <!-- DAILY_CHECKIN_2026-06-24_START -->
+
 
 今天是否完成：
 
@@ -61,6 +83,7 @@ Proof：
 <!-- DAILY_CHECKIN_2026-06-23_START -->
 
 
+
 今天是否完成：
 
 -   完成
@@ -81,6 +104,7 @@ Proof：
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 
 
