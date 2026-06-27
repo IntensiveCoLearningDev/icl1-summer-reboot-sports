@@ -15,13 +15,20 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-06-27
+<!-- DAILY_CHECKIN_2026-06-27_START -->
+今天继续在外面，走路为主。
+<!-- DAILY_CHECKIN_2026-06-27_END -->
+
 # 2026-06-26
 <!-- DAILY_CHECKIN_2026-06-26_START -->
+
 今天出去逛逛园区和走路多一些
 <!-- DAILY_CHECKIN_2026-06-26_END -->
 
 # 2026-06-25
 <!-- DAILY_CHECKIN_2026-06-25_START -->
+
 
 昨天是休息日，今天要走很多路。
 <!-- DAILY_CHECKIN_2026-06-25_END -->
@@ -30,11 +37,13 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2026-06-23_START -->
 
 
+
 今天练腿臀，一小时
 <!-- DAILY_CHECKIN_2026-06-23_END -->
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 
 
