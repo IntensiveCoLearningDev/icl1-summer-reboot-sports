@@ -19,11 +19,12 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2026-06-29_START -->
 打卡
 
-今天依旧暴躁，因为还在北京，到处逛了逛
+今天依旧暴走，因为还在北京，到处逛了逛
 <!-- DAILY_CHECKIN_2026-06-29_END -->
 
 # 2026-06-27
 <!-- DAILY_CHECKIN_2026-06-27_START -->
+
 
 依旧暴走
 
@@ -32,6 +33,7 @@ timezone: UTC+8
 
 # 2026-06-26
 <!-- DAILY_CHECKIN_2026-06-26_START -->
+
 
 
 打卡今日暴走
@@ -44,11 +46,13 @@ timezone: UTC+8
 
 
 
+
 打卡！
 <!-- DAILY_CHECKIN_2026-06-25_END -->
 
 # 2026-06-24
 <!-- DAILY_CHECKIN_2026-06-24_START -->
+
 
 
 
@@ -63,11 +67,13 @@ timezone: UTC+8
 
 
 
+
 今天跑了大概 40 分钟的慢跑，再过几天准备去游泳。
 <!-- DAILY_CHECKIN_2026-06-23_END -->
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 
 
