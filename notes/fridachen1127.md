@@ -15,13 +15,26 @@ timezone: UTC+0
 ## Notes
 
 <!-- Content_START -->
+# 2026-06-29
+<!-- DAILY_CHECKIN_2026-06-29_START -->
+周一混爬楼机/快走/划船机，爬楼和快走速度分别是7和6，混了40min有氧
+
+深刻意识到自己每天出去遛弯的5k步是完全不够的，不能划水了。最低替代方案是40min有氧+随便做点上肢/下肢器械
+
+更新了gpt建议的训练菜单
+
+![81011782775425_.pic.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/fridachen1127/images/2026-06-29-1782775769805-81011782775425_.pic.jpg)
+<!-- DAILY_CHECKIN_2026-06-29_END -->
+
 # 2026-06-27
 <!-- DAILY_CHECKIN_2026-06-27_START -->
+
 上肢+爬坡，1h
 <!-- DAILY_CHECKIN_2026-06-27_END -->
 
 # 2026-06-25
 <!-- DAILY_CHECKIN_2026-06-25_START -->
+
 
 1.  爬坡+跑步，35min
 <!-- DAILY_CHECKIN_2026-06-25_END -->
@@ -30,11 +43,13 @@ timezone: UTC+0
 <!-- DAILY_CHECKIN_2026-06-24_START -->
 
 
+
 夏天出门上上下下找耳机找了一小时，绝倒。
 <!-- DAILY_CHECKIN_2026-06-24_END -->
 
 # 2026-06-23
 <!-- DAILY_CHECKIN_2026-06-23_START -->
+
 
 
 
@@ -65,6 +80,7 @@ prrof: 2
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 
 
