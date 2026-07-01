@@ -196,7 +196,7 @@ Proof：
 | [BareerahBenjamin](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/BareerahBenjamin.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | | | | | | | | | | | |
 | [tongtong268439](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/tongtong268439.md) | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
 | [RicardoXu2](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/RicardoXu2.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | | | | | | | | | | | |
-| [pillowtalk-Qy](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/pillowtalk-Qy.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ |   | | | | | | | | | | | |
+| [pillowtalk-Qy](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/pillowtalk-Qy.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | | | | | | | | | | | |
 | [mave99a](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/mave99a.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [fossildim](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/fossildim.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | | | | | | | | | | | |
 | [muxin-web3](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/muxin-web3.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | | | | | | | | | | | |
@@ -244,6 +244,7 @@ Proof：
 | [eyw8](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/eyw8.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [luuzuofan-design](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/luuzuofan-design.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
