@@ -15,13 +15,20 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-07-01
+<!-- DAILY_CHECKIN_2026-07-01_START -->
+康复运动半个小时
+<!-- DAILY_CHECKIN_2026-07-01_END -->
+
 # 2026-06-29
 <!-- DAILY_CHECKIN_2026-06-29_START -->
+
 徒手力量训练半个小时。
 <!-- DAILY_CHECKIN_2026-06-29_END -->
 
 # 2026-06-28
 <!-- DAILY_CHECKIN_2026-06-28_START -->
+
 
 骑行了大概半个小时吧。今天去北京城市图书馆待了一下午，这个地方真不错，可惜就是有点远。通州的人民有福了。
 <!-- DAILY_CHECKIN_2026-06-28_END -->
@@ -30,11 +37,13 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2026-06-27_START -->
 
 
+
 今天骑了大概6公里的自行车，运动量有点小，主要天太热了。
 <!-- DAILY_CHECKIN_2026-06-27_END -->
 
 # 2026-06-25
 <!-- DAILY_CHECKIN_2026-06-25_START -->
+
 
 
 
@@ -47,6 +56,7 @@ timezone: UTC+8
 
 
 
+
 ![4f70ff7fafe2145ade3d30ac1e8236c5.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/jingedawang/images/2026-06-23-1782225163363-4f70ff7fafe2145ade3d30ac1e8236c5.jpg)
 
 微跑了一会儿步
@@ -54,6 +64,7 @@ timezone: UTC+8
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 
 
