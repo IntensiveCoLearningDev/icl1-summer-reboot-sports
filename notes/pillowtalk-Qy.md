@@ -15,13 +15,20 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-07-01
+<!-- DAILY_CHECKIN_2026-07-01_START -->
+打🏀日+1
+<!-- DAILY_CHECKIN_2026-07-01_END -->
+
 # 2026-06-30
 <!-- DAILY_CHECKIN_2026-06-30_START -->
+
 今天打🏀，依旧恢复期练球
 <!-- DAILY_CHECKIN_2026-06-30_END -->
 
 # 2026-06-29
 <!-- DAILY_CHECKIN_2026-06-29_START -->
+
 
 楼下公园跑了几圈，这次状态比上次好多了，可能是这几天下雨的静态运动有效果了吧，慢慢把运动常态规律化
 <!-- DAILY_CHECKIN_2026-06-29_END -->
@@ -30,11 +37,13 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2026-06-27_START -->
 
 
+
 居家静态运动打卡+1
 <!-- DAILY_CHECKIN_2026-06-27_END -->
 
 # 2026-06-26
 <!-- DAILY_CHECKIN_2026-06-26_START -->
+
 
 
 
@@ -49,11 +58,13 @@ timezone: UTC+8
 
 
 
+
 今天雨太大就没出门了，在家练些静态动作。
 <!-- DAILY_CHECKIN_2026-06-25_END -->
 
 # 2026-06-24
 <!-- DAILY_CHECKIN_2026-06-24_START -->
+
 
 
 
@@ -72,11 +83,13 @@ timezone: UTC+8
 
 
 
+
 太久没运动了，昨天稍微剧烈了一下，今天没咋运动，散步了下
 <!-- DAILY_CHECKIN_2026-06-23_END -->
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 
 
