@@ -15,13 +15,20 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-07-01
+<!-- DAILY_CHECKIN_2026-07-01_START -->
+昨天练了腿，今天是休息日。
+<!-- DAILY_CHECKIN_2026-07-01_END -->
+
 # 2026-06-29
 <!-- DAILY_CHECKIN_2026-06-29_START -->
+
 今天练了上半身的肌肉。称了一下，感觉自己的上肢肌肉确实太少了。
 <!-- DAILY_CHECKIN_2026-06-29_END -->
 
 # 2026-06-27
 <!-- DAILY_CHECKIN_2026-06-27_START -->
+
 
 今天继续在外面，走路为主。
 <!-- DAILY_CHECKIN_2026-06-27_END -->
@@ -30,11 +37,13 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2026-06-26_START -->
 
 
+
 今天出去逛逛园区和走路多一些
 <!-- DAILY_CHECKIN_2026-06-26_END -->
 
 # 2026-06-25
 <!-- DAILY_CHECKIN_2026-06-25_START -->
+
 
 
 
@@ -47,11 +56,13 @@ timezone: UTC+8
 
 
 
+
 今天练腿臀，一小时
 <!-- DAILY_CHECKIN_2026-06-23_END -->
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 
 
