@@ -15,8 +15,14 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-07-02
+<!-- DAILY_CHECKIN_2026-07-02_START -->
+群里有一个集体任务，明天要开始稳定慢跑 5 公里。在跑步这一块还是属于新手，慢慢的去坚持和摸索。
+<!-- DAILY_CHECKIN_2026-07-02_END -->
+
 # 2026-07-01
 <!-- DAILY_CHECKIN_2026-07-01_START -->
+
 打卡✅
 
 早上慢跑了 40 分钟。有时候其实还挺想摆烂的，慢慢养成习惯吧。
@@ -25,6 +31,7 @@ timezone: UTC+8
 # 2026-06-30
 <!-- DAILY_CHECKIN_2026-06-30_START -->
 
+
 打卡
 
 依旧暴走
@@ -32,6 +39,7 @@ timezone: UTC+8
 
 # 2026-06-29
 <!-- DAILY_CHECKIN_2026-06-29_START -->
+
 
 
 打卡
@@ -45,6 +53,7 @@ timezone: UTC+8
 
 
 
+
 依旧暴走
 
 ![1000009791.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/RicardoXu2/images/2026-06-27-1782565086547-1000009791.jpg)
@@ -52,6 +61,7 @@ timezone: UTC+8
 
 # 2026-06-26
 <!-- DAILY_CHECKIN_2026-06-26_START -->
+
 
 
 
@@ -70,11 +80,13 @@ timezone: UTC+8
 
 
 
+
 打卡！
 <!-- DAILY_CHECKIN_2026-06-25_END -->
 
 # 2026-06-24
 <!-- DAILY_CHECKIN_2026-06-24_START -->
+
 
 
 
@@ -95,11 +107,13 @@ timezone: UTC+8
 
 
 
+
 今天跑了大概 40 分钟的慢跑，再过几天准备去游泳。
 <!-- DAILY_CHECKIN_2026-06-23_END -->
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 
 
