@@ -240,10 +240,11 @@ Proof：
 | [San-Y108](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/San-Y108.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [aggiewang6087-sys](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/aggiewang6087-sys.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [jingnanbei](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/jingnanbei.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
-| [yhzhongc](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/yhzhongc.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ |   | | | | | | | | | |
+| [yhzhongc](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/yhzhongc.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | | | | | | | | | |
 | [eyw8](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/eyw8.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [luuzuofan-design](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/luuzuofan-design.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
