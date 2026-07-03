@@ -15,8 +15,18 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-07-03
+<!-- DAILY_CHECKIN_2026-07-03_START -->
+21:00~22:00 打球
+
+昨天动得太狠了，今天完全无状态……
+
+本来还想天晴的时候跑跑步来着……
+<!-- DAILY_CHECKIN_2026-07-03_END -->
+
 # 2026-07-02
 <!-- DAILY_CHECKIN_2026-07-02_START -->
+
 7:30~22:00 篮球
 
 我真的打不动了…………好累啊！
@@ -25,6 +35,7 @@ timezone: UTC+8
 # 2026-06-30
 <!-- DAILY_CHECKIN_2026-06-30_START -->
 
+
 酣畅淋漓地打球。
 
 20:30~22:00
@@ -32,6 +43,7 @@ timezone: UTC+8
 
 # 2026-06-29
 <!-- DAILY_CHECKIN_2026-06-29_START -->
+
 
 
 轻量健身：
@@ -50,11 +62,13 @@ RDL：4x5
 
 
 
+
 逛商场一晚上，有氧完成（？）
 <!-- DAILY_CHECKIN_2026-06-28_END -->
 
 # 2026-06-27
 <!-- DAILY_CHECKIN_2026-06-27_START -->
+
 
 
 
@@ -68,6 +82,7 @@ RDL：4x5
 
 # 2026-06-26
 <!-- DAILY_CHECKIN_2026-06-26_START -->
+
 
 
 
@@ -88,6 +103,7 @@ RDL：4x5
 
 
 
+
 ![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/skelitalynn/images/2026-06-25-1782400948060-image.png)
 
 今日投篮训练30min。正在更改投篮动作，现在力气够了，但是准星差点。慢慢练吧~~
@@ -95,6 +111,7 @@ RDL：4x5
 
 # 2026-06-23
 <!-- DAILY_CHECKIN_2026-06-23_START -->
+
 
 
 
@@ -120,6 +137,7 @@ Proof：我和卧推杆深情对视。。。
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 
 
