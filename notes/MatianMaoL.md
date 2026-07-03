@@ -21,11 +21,12 @@ timezone: UTC+8
 
 今天完成：背拉7min、平板支撑2\*1min、开合蚌2\*30、臀桥2\*30、Hit16min、徒步9.7km
 
-![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/MatianMaoL/images/2026-07-03-1783085048032-image.png)![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/MatianMaoL/images/2026-07-03-1783085058976-image.png)
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/MatianMaoL/images/2026-07-03-1783085160210-image.png)
 <!-- DAILY_CHECKIN_2026-07-03_END -->
 
 # 2026-07-02
 <!-- DAILY_CHECKIN_2026-07-02_START -->
+
 
 
 7.2：打卡第11天，今早体重114.6斤，7月12日目标108斤
@@ -40,6 +41,7 @@ timezone: UTC+8
 
 
 
+
 7.1：打卡第10天，今早体重115.4斤，7月12日目标108斤
 
 今天完成：背拉7min、平板支撑2\*1min、开合蚌2\*30、臀桥2\*30、Hit12min、徒步10.8km
@@ -49,6 +51,7 @@ timezone: UTC+8
 
 # 2026-06-30
 <!-- DAILY_CHECKIN_2026-06-30_START -->
+
 
 
 
@@ -70,6 +73,7 @@ timezone: UTC+8
 
 
 
+
 6.29：打卡第8天，今早体重114.9斤，7月12日目标108斤
 
 今天完成：背拉5\*20、平板支撑2\*1min、开合蚌2\*30、臀桥2\*30、深蹲40、Hit9min、刘畊宏4件套30、徒步9.3km
@@ -81,6 +85,7 @@ km
 
 # 2026-06-28
 <!-- DAILY_CHECKIN_2026-06-28_START -->
+
 
 
 
@@ -109,6 +114,7 @@ km
 
 
 
+
 6.26：打卡第6天，今早体重114.9斤，7月12日目标108斤
 
 今天完成：背拉5\*20\*2、平板支撑2\*1min、开合蚌2\*30、臀桥2\*30、徒步13
@@ -118,6 +124,7 @@ km
 
 # 2026-06-26
 <!-- DAILY_CHECKIN_2026-06-26_START -->
+
 
 
 
@@ -150,6 +157,7 @@ km
 
 
 
+
 6.25：打卡第4天，今早体重115.8斤，7月12日目标108斤
 
 今天完成：背拉5\*20\*2、平板支撑2\*1min、开合蚌2\*30、臀桥2\*30、徒步12.8
@@ -159,6 +167,7 @@ km
 
 # 2026-06-24
 <!-- DAILY_CHECKIN_2026-06-24_START -->
+
 
 
 
@@ -195,6 +204,7 @@ km
 
 
 
+
 6.23：打卡第2天，今早体重171.2斤，7月12日目标108斤
 
 今天完成：背拉5\*20\*2、平板支撑2\*1min、开合蚌2\*30、臀桥2\*30、徒步10km
@@ -204,6 +214,7 @@ km
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 
 
