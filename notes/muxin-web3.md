@@ -15,6 +15,11 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-07-04
+<!-- DAILY_CHECKIN_2026-07-04_START -->
+今天早起不舒服，就傍晚散步 30 分钟
+<!-- DAILY_CHECKIN_2026-07-04_END -->
+
 # 2026-07-03
 <!-- DAILY_CHECKIN_2026-07-03_START -->
 -   360 度呼吸训练 5 mins
