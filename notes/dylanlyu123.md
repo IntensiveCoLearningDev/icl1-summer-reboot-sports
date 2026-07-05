@@ -17,8 +17,29 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-07-05
+<!-- DAILY_CHECKIN_2026-07-05_START -->
+今天是否完成：
+
+-   完成
+    
+
+运动类型：慢跑
+
+运动时长：
+
+Proof：
+
+![微信图片_20260705203821_58_119.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/dylanlyu123/images/2026-07-05-1783255122538-_____20260705203821_58_119.jpg)
+
+身体 / 睡眠 / 情绪感受：
+
+一句话记录：
+<!-- DAILY_CHECKIN_2026-07-05_END -->
+
 # 2026-07-04
 <!-- DAILY_CHECKIN_2026-07-04_START -->
+
 今天是否完成：
 
 -   完成
@@ -39,6 +60,7 @@ Proof：
 
 # 2026-07-01
 <!-- DAILY_CHECKIN_2026-07-01_START -->
+
 
 今天是否完成：
 
@@ -62,6 +84,7 @@ Proof：
 <!-- DAILY_CHECKIN_2026-06-30_START -->
 
 
+
 今天是否完成：
 
 -   完成
@@ -80,6 +103,7 @@ Proof：none
 
 # 2026-06-29
 <!-- DAILY_CHECKIN_2026-06-29_START -->
+
 
 
 
@@ -109,6 +133,7 @@ Proof：
 
 
 
+
 今天是否完成：
 
 -   完成
@@ -129,6 +154,7 @@ Proof：
 
 # 2026-06-26
 <!-- DAILY_CHECKIN_2026-06-26_START -->
+
 
 
 
@@ -160,6 +186,7 @@ Proof：
 
 
 
+
 今天是否完成：
 
 -   完成
@@ -180,6 +207,7 @@ Proof：
 
 # 2026-06-24
 <!-- DAILY_CHECKIN_2026-06-24_START -->
+
 
 
 
@@ -214,6 +242,7 @@ Proof：
 
 
 
+
 今天是否完成：
 
 -   完成
@@ -234,6 +263,7 @@ Proof：
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 
 
