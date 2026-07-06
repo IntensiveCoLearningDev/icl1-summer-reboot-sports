@@ -209,7 +209,7 @@ Proof：
 | [jingedawang](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/jingedawang.md) | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ |   | | | | | | |
 | [shaoyanjun-syj](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/shaoyanjun-syj.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [skelitalynn](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/skelitalynn.md) | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ |   | | | | | | |
-| [iokk](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/iokk.md) | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |   | | | | | | |
+| [iokk](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/iokk.md) | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | | | | | | |
 | [Coooder-Crypto](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/Coooder-Crypto.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [Rebecca9715](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/Rebecca9715.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ |   | | | | | | |
 | [zyz060323](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/zyz060323.md) | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
@@ -244,6 +244,7 @@ Proof：
 | [eyw8](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/eyw8.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [luuzuofan-design](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/luuzuofan-design.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
