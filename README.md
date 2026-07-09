@@ -216,7 +216,7 @@ Proof：
 | [Jasper-B-WLB](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/Jasper-B-WLB.md) | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ |   | | | |
 | [Apricity0401](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/Apricity0401.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   | | | |
 | [Aafff623](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/Aafff623.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
-| [NeoWeb3Nova](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/NeoWeb3Nova.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   | | | |
+| [NeoWeb3Nova](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/NeoWeb3Nova.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | | | |
 | [lexiiicls](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/lexiiicls.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [Toby1009](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/Toby1009.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [15998431520](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/15998431520.md) | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ |   | | | |
@@ -244,6 +244,7 @@ Proof：
 | [eyw8](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/eyw8.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [luuzuofan-design](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/luuzuofan-design.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
