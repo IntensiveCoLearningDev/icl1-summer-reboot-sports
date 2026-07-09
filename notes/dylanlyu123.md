@@ -17,8 +17,29 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-07-09
+<!-- DAILY_CHECKIN_2026-07-09_START -->
+今天是否完成：
+
+-   完成
+    
+
+运动类型：慢跑
+
+运动时长：40 min
+
+Proof：
+
+![微信图片_20260709212543_15340_158.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/dylanlyu123/images/2026-07-09-1783604950726-_____20260709212543_15340_158.jpg)
+
+身体 / 睡眠 / 情绪感受：跑下来很轻松，最近在尝试低碳水 + 咖啡因的饮食方式，身体和精神状态都变得好了很多
+
+一句话记录：状态良好，恢复得当
+<!-- DAILY_CHECKIN_2026-07-09_END -->
+
 # 2026-07-08
 <!-- DAILY_CHECKIN_2026-07-08_START -->
+
 每日打卡
 
 今天是否完成：
@@ -42,6 +63,7 @@ Proof：
 # 2026-07-07
 <!-- DAILY_CHECKIN_2026-07-07_START -->
 
+
 今天是否完成：
 
 -   完成
@@ -60,6 +82,7 @@ Proof：none
 
 # 2026-07-06
 <!-- DAILY_CHECKIN_2026-07-06_START -->
+
 
 
 今天是否完成：
@@ -82,6 +105,7 @@ Proof：
 
 # 2026-07-05
 <!-- DAILY_CHECKIN_2026-07-05_START -->
+
 
 
 
@@ -110,6 +134,7 @@ Proof：
 
 
 
+
 今天是否完成：
 
 -   完成
@@ -130,6 +155,7 @@ Proof：
 
 # 2026-07-01
 <!-- DAILY_CHECKIN_2026-07-01_START -->
+
 
 
 
@@ -163,6 +189,7 @@ Proof：
 
 
 
+
 今天是否完成：
 
 -   完成
@@ -181,6 +208,7 @@ Proof：none
 
 # 2026-06-29
 <!-- DAILY_CHECKIN_2026-06-29_START -->
+
 
 
 
@@ -220,6 +248,7 @@ Proof：
 
 
 
+
 今天是否完成：
 
 -   完成
@@ -240,6 +269,7 @@ Proof：
 
 # 2026-06-26
 <!-- DAILY_CHECKIN_2026-06-26_START -->
+
 
 
 
@@ -281,6 +311,7 @@ Proof：
 
 
 
+
 今天是否完成：
 
 -   完成
@@ -301,6 +332,7 @@ Proof：
 
 # 2026-06-24
 <!-- DAILY_CHECKIN_2026-06-24_START -->
+
 
 
 
@@ -345,6 +377,7 @@ Proof：
 
 
 
+
 今天是否完成：
 
 -   完成
@@ -365,6 +398,7 @@ Proof：
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 
 
