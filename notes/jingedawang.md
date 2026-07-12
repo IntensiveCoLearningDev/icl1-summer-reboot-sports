@@ -15,13 +15,20 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-07-12
+<!-- DAILY_CHECKIN_2026-07-12_START -->
+下楼跑了会儿步
+<!-- DAILY_CHECKIN_2026-07-12_END -->
+
 # 2026-07-11
 <!-- DAILY_CHECKIN_2026-07-11_START -->
+
 13 公里 city walk。去了景福宫、国立民俗博物馆、北村韩屋村、宗庙、明洞。
 <!-- DAILY_CHECKIN_2026-07-11_END -->
 
 # 2026-07-10
 <!-- DAILY_CHECKIN_2026-07-10_START -->
+
 
 步行3公里。
 <!-- DAILY_CHECKIN_2026-07-10_END -->
@@ -30,11 +37,13 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2026-07-07_START -->
 
 
+
 今天步行6公里
 <!-- DAILY_CHECKIN_2026-07-07_END -->
 
 # 2026-07-06
 <!-- DAILY_CHECKIN_2026-07-06_START -->
+
 
 
 
@@ -47,11 +56,13 @@ timezone: UTC+8
 
 
 
+
 在首尔步行了5公里，这里的路高低起伏，走得很累。
 <!-- DAILY_CHECKIN_2026-07-05_END -->
 
 # 2026-07-04
 <!-- DAILY_CHECKIN_2026-07-04_START -->
+
 
 
 
@@ -68,11 +79,13 @@ timezone: UTC+8
 
 
 
+
 康复训练半个小时
 <!-- DAILY_CHECKIN_2026-07-02_END -->
 
 # 2026-07-01
 <!-- DAILY_CHECKIN_2026-07-01_START -->
+
 
 
 
@@ -93,11 +106,13 @@ timezone: UTC+8
 
 
 
+
 徒手力量训练半个小时。
 <!-- DAILY_CHECKIN_2026-06-29_END -->
 
 # 2026-06-28
 <!-- DAILY_CHECKIN_2026-06-28_START -->
+
 
 
 
@@ -122,11 +137,13 @@ timezone: UTC+8
 
 
 
+
 今天骑了大概6公里的自行车，运动量有点小，主要天太热了。
 <!-- DAILY_CHECKIN_2026-06-27_END -->
 
 # 2026-06-25
 <!-- DAILY_CHECKIN_2026-06-25_START -->
+
 
 
 
@@ -155,6 +172,7 @@ timezone: UTC+8
 
 
 
+
 ![4f70ff7fafe2145ade3d30ac1e8236c5.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/jingedawang/images/2026-06-23-1782225163363-4f70ff7fafe2145ade3d30ac1e8236c5.jpg)
 
 微跑了一会儿步
@@ -162,6 +180,7 @@ timezone: UTC+8
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 
 
